@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/green-t-shirt.jpg",
-            "mobile_image": "shopify://shop_images/green-t-shirt.jpg",
+            "image": "shopify://shop_images/whitebg334.jpg",
+            "mobile_image": "shopify://shop_images/mob4x1500.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -29,7 +29,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
@@ -37,8 +37,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/green-t-shirt.jpg",
-            "mobile_image": "shopify://shop_images/green-t-shirt.jpg",
+            "image": "shopify://shop_images/whitebg1.jpg",
+            "mobile_image": "shopify://shop_images/mob1x1500.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -51,7 +51,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
@@ -69,8 +69,8 @@
         "transition_type": "fade_with_text",
         "autoplay": true,
         "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+        "background": "#ffffff",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 0), rgba(23, 29, 33, 0) 98%)"
       }
     },
     "image-link-blocks": {
@@ -152,7 +152,7 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
