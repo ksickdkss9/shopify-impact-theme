@@ -242,7 +242,9 @@
       "type": "featured-collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "example-t-shirt"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
@@ -690,7 +692,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "",
+        "product": "example-t-shirt",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
