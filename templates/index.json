@@ -47,7 +47,7 @@
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
-            "text_color": "#ffffff",
+            "text_color": "#000000",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
@@ -68,7 +68,7 @@
         "controls_type": "numbers",
         "transition_type": "fade_with_text",
         "autoplay": true,
-        "cycle_speed": 6,
+        "cycle_speed": 13,
         "background": "#ffffff",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 0), rgba(23, 29, 33, 0) 98%)"
       }
